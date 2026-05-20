@@ -5,7 +5,7 @@
 - 🌱 Currently learning Ai,AWS
 - 💼 Working at Virtusa
 - 🎯 Goal: Become Software Engineer in Product-Based Company
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: your-rajeshvallepu7@gmail.com
 
 ---
 
