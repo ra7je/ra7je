@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Rajesh Vallepu
 
-<!--
-**ra7je/ra7je** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Full Stack Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Spring Boot, SQL, AWS
+- 💼 Working at Virtusa
+- 🎯 Goal: Become Software Engineer in Product-Based Company
+- 📫 Reach me: your-email@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+### Languages
+- Java
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Backend
+- Spring Boot
+- REST APIs
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ
+
+---
+
+## 📌 Projects
+
+### 🔹 Fake News Detection using Machine Learning
+- NLP + TF-IDF + Logistic Regression
+
+### 🔹 Monkeypox Prediction using Deep Learning
+- AlexNet + DenseNet
+
+### 🔹 DDoS Attack Detection Dashboard
+- Ensemble Learning + Dash Visualization
+
+### 🔹 Online Skill Assessment Platform
+- Java + MySQL + HTML/CSS/JS
+
+---
+
+## 📈 GitHub Stats
+
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ra7je&show_icons=true)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ra7je)
