@@ -49,9 +49,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ra7je&show_icons=true)
 
 ---
 
