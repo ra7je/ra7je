@@ -2,7 +2,7 @@
 
 ## Java Full Stack Developer
 
-- 🌱 Currently learning Spring Boot, SQL, AWS
+- 🌱 Currently learning Ai,AWS
 - 💼 Working at Virtusa
 - 🎯 Goal: Become Software Engineer in Product-Based Company
 - 📫 Reach me: your-email@gmail.com
