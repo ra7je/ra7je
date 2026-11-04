@@ -127,4 +127,4 @@ Lakireddy Bali Reddy College of Engineering
 
 - 📧 Email: rajeshvallepu7@gmail.com
 - 💻 GitHub: https://github.com/ra7je
-- 🔗 LinkedIn: Add your LinkedIn profile URL
+- 🔗 LinkedIn:(https://www.linkedin.com/in/rajeshvallepu21/)
